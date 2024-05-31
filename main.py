@@ -47,7 +47,7 @@ def format_bin_info(bin_data, full_cc):
 〄 └ Country ➝  {bin_data.get('country_name', '')} | {bin_data.get('country_flag', '')}
 ⸻⸻⸻⸻⸻⸻⸻⸻
 〄 ┌ T ➝ {time.strftime("%a %b | %d | %Y | %H:%M:%S")} ｢🇮🇶」
-〄 └ Dev ➝ <a href="https://t.me/FJ0FF"> تــومـــ🇮🇶ـــي ｢𝘝𝘡𝘠™」</a>
+〄 └ Dev ➝ <a href="https://t.me/FJ0FF"> تــومـــ🇮🇶ـــي </a>
 </b>
     """
     return formatted_info
